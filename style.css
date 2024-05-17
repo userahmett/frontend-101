@@ -1,0 +1,17 @@
+baslik{
+    display:block;
+    font-weight:bold;
+    margin-top:24px;
+    font-size: 32px;
+}
+misra{
+    display:block;
+}
+dortluk{
+    display:block;
+    margin-bottom: 16px;
+}
+sair{
+    display:block;
+    font-style: italic;
+}
